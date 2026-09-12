@@ -1,0 +1,13 @@
+# Blender backups and temporary files
+*.blend1
+*.blend2
+*.blend@
+*.tmp
+
+# Local settings and caches
+.env
+.env.*
+!.env.example
+__pycache__/
+.DS_Store
+Thumbs.db
